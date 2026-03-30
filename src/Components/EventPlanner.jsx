@@ -98,6 +98,8 @@ const EventPlanner = () => {
                     <button className='submit-button'>Send Message</button>
                 </form>
             </section>
+            {/* Footer component */}
+            <Footer />
         </div>
     );
 };

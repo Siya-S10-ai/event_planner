@@ -4,7 +4,7 @@ const Footer = () => {
         <>
             <footer>
                 <div>
-                    <p>Created by Siyabonga💖.</p>
+                    <p>@copy; Created by Siyabonga💖.</p>
                 </div>
             </footer>
         </>
